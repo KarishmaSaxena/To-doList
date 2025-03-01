@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.todo-wrap {
+  margin-top: 20px;
+}
+.todo-heading {
+  justify-content: center;
+  font-size: larger;
+  display: flex;
+}
+.todo-input {
+  padding: 8px;
+  width: 200px;
+  margin-top: 16px;
+}
+.todo-description {
+  padding: 8px;
+  margin-top: 16px;
+  width: 200px;
+}
+.date-input {
+  width: 200px;
+  padding: 8px;
+  margin-top: 16px;
+}
+.time-input {
+  width: 200px;
+  padding: 8px;
+  margin-top: 16px;
+}
+.add-btn {
+  margin-top: 16px;
+  background-color: gray-5;
+  width: 50px;
+  color: black;
+  justify-content: end;
+}
